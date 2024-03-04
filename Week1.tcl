@@ -47,9 +47,9 @@ $n1 set X_ 200
 $n1 set Y_ 100
 $n1 set Z_ 0
 
-$n1 set X_ 200
-$n1 set Y_ 300
-$n1 set Z_ 0
+$n2 set X_ 200
+$n2 set Y_ 300
+$n2 set Z_ 0
 
 $ns at 0.1 "$n1 color blue"
 $ns at 0.1 "$n1 label node1"
